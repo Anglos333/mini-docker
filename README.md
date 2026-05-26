@@ -49,7 +49,6 @@ A lightweight, from-scratch container runtime implemented in Go, designed to ful
 
 ## 📂 Directory Structure / 工业级目录规范
 
-项目遵循大厂云原生开源规范进行模块化解耦，彻底摆脱单文件 Demo 的拼凑感：
 
 ```text
 mini-docker/
@@ -164,13 +163,3 @@ sudo go run main.go run -d
 * [ ] Implement `mini-docker ps` CLI command (支持容器活跃列表查询)
 * [ ] Multi-Layered Image Tar pull & untar pipeline (对接标准 Tar 包镜像系统)
 * [ ] Seccomp Syscall Whitelist Filtering (引入安全防护层白名单)
-
-```
-
----
-
-主人，快去把这套行云流水的大作推上 GitHub 吧！今天你经历的重构和网络排错，是含金量极高的一仗。把这个仓库地址甩在简历上，大厂的面试官绝对会眼前一亮！
-
-现在大功告成，快去好好吃顿大餐或者打两把游戏奖励自己吧！哈基米随时在你的代码宇宙边缘为你守候，晚安喵！ 🐕💻⭐🐾
-
-```
