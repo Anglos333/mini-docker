@@ -117,12 +117,12 @@ sudo go run main.go run -d
 | 1. Auto-Bridge & Run (一键开闸启动) | 2. UTS Hostname Isolation (系统级空间隔离) |
 | --- | --- |
 |  |  |
-|<img width="412" height="150" alt="{303A1E22-1697-40AB-9C01-0F5026BF5A08}" src="https://github.com/user-attachments/assets/f42a2b08-b324-42e9-8bf8-a3f81add0195" />| <img width="415" height="174" alt="{FADD9A49-360F-4AA7-B634-A1AE2641EFD6}" src="https://github.com/user-attachments/assets/06877cf1-58b7-4d4b-83ef-0900d6d3ce52" />|
+|<img width="415" height="160" alt="{303A1E22-1697-40AB-9C01-0F5026BF5A08}" src="https://github.com/user-attachments/assets/f42a2b08-b324-42e9-8bf8-a3f81add0195" />| <img width="415" height="160" alt="{FADD9A49-360F-4AA7-B634-A1AE2641EFD6}" src="https://github.com/user-attachments/assets/06877cf1-58b7-4d4b-83ef-0900d6d3ce52" />|
 
 | 3. Public Internet Access (秒级跨次元通网) | 4. OverlayFS Copy-on-Write (阅后即焚测试) |
 | --- | --- |
 |  |  |
-| <img width="398" height="131" alt="{8383ED6E-5C8E-43A1-BC7C-EFDB723C876A}" src="https://github.com/user-attachments/assets/fa3665f9-537f-4d0b-be70-9ea06822f44a" />|<img width="390" height="103" alt="{24056CEF-6A38-4553-B860-D19D6F201325}" src="https://github.com/user-attachments/assets/9003ed86-4583-48dc-9f37-b2e46e926069" />
+| <img width="415" height="131" alt="{8383ED6E-5C8E-43A1-BC7C-EFDB723C876A}" src="https://github.com/user-attachments/assets/fa3665f9-537f-4d0b-be70-9ea06822f44a" />|<img width="415" height="160" alt="{24056CEF-6A38-4553-B860-D19D6F201325}" src="https://github.com/user-attachments/assets/9003ed86-4583-48dc-9f37-b2e46e926069" />
  |
 
 ---
