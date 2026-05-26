@@ -1,5 +1,5 @@
 # mini-docker 🚀
-
+A minimal container runtime written in Go for learning Linux container internals, built from scratch using Linux namespaces, cgroups v2, pivot_root, and virtual networking.
 A lightweight, from-scratch container runtime implemented in Go, designed to fully unveil the core mechanics of modern containerization technology (Docker/runc).
 
 `mini-docker` 是一个基于 **Go 语言和 Linux 内核底层特性** 从零实现的轻量级沙箱容器运行时。项目摒弃了繁琐的工业包装，用高内聚、低耦合的模块化架构，完整闭环了现代容器底层的核心隔离、硬资源配额、分层文件系统及网络自适应编排链路。
