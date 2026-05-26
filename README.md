@@ -123,7 +123,8 @@ sudo go run main.go run -d
 | 3. Public Internet Access (秒级跨次元通网) | 4. OverlayFS Copy-on-Write (阅后即焚测试) |
 | --- | --- |
 |  |  |
-| <img width="398" height="131" alt="{8383ED6E-5C8E-43A1-BC7C-EFDB723C876A}" src="https://github.com/user-attachments/assets/fa3665f9-537f-4d0b-be70-9ea06822f44a" />|<img width="275" height="61" alt="{B0359F14-89A2-40E3-9726-23FE755157A6}" src="https://github.com/user-attachments/assets/c1972aee-ef10-42c5-ae57-895ba865d854" /> |
+| <img width="398" height="131" alt="{8383ED6E-5C8E-43A1-BC7C-EFDB723C876A}" src="https://github.com/user-attachments/assets/fa3665f9-537f-4d0b-be70-9ea06822f44a" />|<img width="390" height="103" alt="{24056CEF-6A38-4553-B860-D19D6F201325}" src="https://github.com/user-attachments/assets/9003ed86-4583-48dc-9f37-b2e46e926069" />
+ |
 
 ---
 
