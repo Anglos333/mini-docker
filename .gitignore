@@ -1,0 +1,10 @@
+# 忽略编译出的二进制主程序
+mini-docker
+
+# 忽略 OverlayFS 运行中产生的动态临时读写层和合并层
+overlay/upper-*
+overlay/work-*
+overlay/merged-*
+
+# 如果你的 rootfs 是从网上解压的超大 rootfs 压缩包，也可以写在这里忽略它
+# rootfs/
